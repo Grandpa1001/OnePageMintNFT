@@ -12,6 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 BULID in web https://claimWords.mgrgracz.repl.co 
+use react app and deploy https://replit.com/
 
 ![image](https://user-images.githubusercontent.com/28570039/207720745-e369eefd-8192-44f5-91ea-7445f8beb5f4.png)
 
